@@ -4,6 +4,9 @@
 .obsidian/cache/
 .trash/
 
+# Obsidian 커뮤니티 플러그인 (서드파티 코드 + API 키 등 민감 설정 포함, 커밋 제외)
+.obsidian/plugins/
+
 # OS junk
 Thumbs.db
 desktop.ini
