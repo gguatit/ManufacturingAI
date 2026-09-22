@@ -1,0 +1,15 @@
+1. 과정 개요와 10시간 운영계획
+2. 전 과정 공통 사례: 한빛부품
+3. ChatGPT/Copilot/Gemini/Opencode 실습 방법과 검증 원칙
+4. 제조기업의 문제와 DX 목표
+5. ISA-95와 스마트제조 전체 구조
+6. ERP와 SCM
+7. PLM
+8. MES와 POP
+9. QMS
+10. CMMS
+11. WMS
+12. Sensor Actuator PLC DCS
+13. AI를 활용한 분석 보고와 AI Brain
+14. 시스템 통합과 자율생산
+15. 최종 미니 프로젝트와 취업 연결
